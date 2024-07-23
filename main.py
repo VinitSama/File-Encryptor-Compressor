@@ -15,9 +15,9 @@ Hello Guys, This Program is purely Python Based.
 Before starting we have to fullfill all the requirenments.
 For this follow this steps:-
 
-STEP 1: Installing Dependencies <PIL and MySql.Connector>.
+STEP 1: Installing Dependencies <PIL and Cryptography>.
             Run in terminal
-            > pip install pillow mysql.connector
+            > pip install pillow cryptography
 
 Voila! Run main.py.
 
